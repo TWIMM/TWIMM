@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/TWIMM/static/css/main.13b65789.css",
-    "main.js": "/TWIMM/static/js/main.21788aec.js",
+    "main.js": "/TWIMM/static/js/main.a291c8f8.js",
     "static/js/787.34099e4b.chunk.js": "/TWIMM/static/js/787.34099e4b.chunk.js",
     "static/media/Hugo.png": "/TWIMM/static/media/Hugo.802ea49dd5c5698d3121.png",
     "static/media/reactnat.png": "/TWIMM/static/media/reactnat.78d476c988559580fa8d.png",
+    "static/media/moncv.pdf": "/TWIMM/static/media/moncv.1e0a4d65f21c4aad058e.pdf",
     "static/media/js.png": "/TWIMM/static/media/js.d2111f5d7160f38e24fc.png",
     "static/media/websocket.png": "/TWIMM/static/media/websocket.6fc1390ee11715011f35.png",
     "static/media/redux.png": "/TWIMM/static/media/redux.0c71ce566dcae11bc6cc.png",
@@ -15,11 +16,11 @@
     "static/media/laravel.png": "/TWIMM/static/media/laravel.b90b21c574b422a6aff2.png",
     "index.html": "/TWIMM/index.html",
     "main.13b65789.css.map": "/TWIMM/static/css/main.13b65789.css.map",
-    "main.21788aec.js.map": "/TWIMM/static/js/main.21788aec.js.map",
+    "main.a291c8f8.js.map": "/TWIMM/static/js/main.a291c8f8.js.map",
     "787.34099e4b.chunk.js.map": "/TWIMM/static/js/787.34099e4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13b65789.css",
-    "static/js/main.21788aec.js"
+    "static/js/main.a291c8f8.js"
   ]
 }
