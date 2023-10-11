@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TWIMM/static/css/main.51a661b9.css",
-    "main.js": "/TWIMM/static/js/main.d3937e9a.js",
+    "main.css": "/TWIMM/static/css/main.0f02590c.css",
+    "main.js": "/TWIMM/static/js/main.85b63fb7.js",
     "static/js/787.34099e4b.chunk.js": "/TWIMM/static/js/787.34099e4b.chunk.js",
     "static/media/Hugo.png": "/TWIMM/static/media/Hugo.802ea49dd5c5698d3121.png",
     "static/media/reactnat.png": "/TWIMM/static/media/reactnat.78d476c988559580fa8d.png",
@@ -15,12 +15,12 @@
     "static/media/apirest.png": "/TWIMM/static/media/apirest.32d5cca8e2e04120249a.png",
     "static/media/laravel.png": "/TWIMM/static/media/laravel.b90b21c574b422a6aff2.png",
     "index.html": "/TWIMM/index.html",
-    "main.51a661b9.css.map": "/TWIMM/static/css/main.51a661b9.css.map",
-    "main.d3937e9a.js.map": "/TWIMM/static/js/main.d3937e9a.js.map",
+    "main.0f02590c.css.map": "/TWIMM/static/css/main.0f02590c.css.map",
+    "main.85b63fb7.js.map": "/TWIMM/static/js/main.85b63fb7.js.map",
     "787.34099e4b.chunk.js.map": "/TWIMM/static/js/787.34099e4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a661b9.css",
-    "static/js/main.d3937e9a.js"
+    "static/css/main.0f02590c.css",
+    "static/js/main.85b63fb7.js"
   ]
 }
